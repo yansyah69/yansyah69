@@ -30,11 +30,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yansyah69&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=yansyah69&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yansyah69&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=yansyah69&layout=compact&theme=tokyonight" />
 </p>
 <!--
 **yansyah69/yansyah69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
